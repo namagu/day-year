@@ -113,3 +113,5 @@ wobblebaby_singleplanet.ipynb
 wobblebaby_withBeta.ipynb
 wobblebabydemo.ipynb
 yubo_plot_regions.py
+.ipynb_checkpoints/
+.DS_Store
