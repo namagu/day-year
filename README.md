@@ -24,6 +24,8 @@ Also, I haven't uploaded all the supporting files to make it work, namely the MC
 
 [_Evidence for a Nondichotomous Solution to the Kepler Dichotomy: Mutual Inclinations of Kepler Planetary Systems from Transit Duration Variations_](https://ui.adsabs.harvard.edu/abs/2021AJ....162..166M/abstract), Millholland et al (2021).
 
+If you have questions, please email me (:
+
 
 
 
