@@ -20,7 +20,9 @@ Also, I haven't uploaded all the supporting files to make it work, namely the MC
 
 # relevant reading
 
-[_Plausibility of Capture into High-obliquity States for Exoplanets in the M Dwarf Habitable Zone_, Guerrero, Ballard, and Su](https://ui.adsabs.harvard.edu/abs/2024ApJ...975..256G/abstract)
+[_Plausibility of Capture into High-obliquity States for Exoplanets in the M Dwarf Habitable Zone_](https://ui.adsabs.harvard.edu/abs/2024ApJ...975..256G/abstract), Guerrero, Ballard, and Su (2024).
+
+[_Evidence for a Nondichotomous Solution to the Kepler Dichotomy: Mutual Inclinations of Kepler Planetary Systems from Transit Duration Variations_](https://ui.adsabs.harvard.edu/abs/2021AJ....162..166M/abstract), Millholland et al (2021).
 
 
 
