@@ -63,14 +63,12 @@ junk.py
 kep_conf_names_2024.10.23_21.55.06.csv
 kepler_koi_lookup_2024.10.23_21.55.06.csv
 knicole_fp_targets.txt
-koi_mdwarf_multis_planets.fits
 masters2023
 mcmc_Tdur_checklist.txt
 mcmc_lightcurve_fit.ipynb
 megahistogram.ipynb
 migration.ipynb
 no_tdur.txt
-non_kepler_candidates_gaia_mag.txt
 not_paying_attention_at_exssv.ipynb
 notes-family-portrait.txt
 obliquity_insolation_all.png
@@ -79,7 +77,6 @@ obliquity_overlay.png
 other_mdwarf_multis_planets.fits
 other_mdwarf_multis_planets_edits.fits
 other_mdwarf_multis_planets_edits_new.fits
-other_struct_planets_extra_teq.fits
 out.csv
 output_get_dTdur_prediction.txt
 paper_draft
